@@ -183,7 +183,6 @@ class App {
 
     // Render workout on list
     this._renderWorkout(workout);
-    // Hide form+clear input fields
 
     // Clear input fields
     this._hideForm();
